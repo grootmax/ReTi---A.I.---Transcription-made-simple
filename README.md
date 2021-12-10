@@ -1,4 +1,4 @@
-# Reti-AI is a transcription app.
+# Reti-AI is a transcription app
    * this projects is made with Assembly-AI transcription API. 
    
    
@@ -9,21 +9,17 @@
    * Node.js
    
    
+# Screenshots of the project ⬇️
 
+![](./images/reti.png)
+
+
+
+# live demo: 
+
+   * live demo wont work, because I removed the api token for no reason.
+   * link for the live demo: https://unruffled-elion-40cb7a.netlify.app/ 
    
-   
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Run App
   * create an account on assemble ai 
